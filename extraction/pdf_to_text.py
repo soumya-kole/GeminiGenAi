@@ -58,8 +58,12 @@ def pdf_to_images(pdf_file_with_path, output_folder="output_images", dpi=300, fm
 def pdf_to_text(pdf_path, text_folder="output_texts"):
     for f in os.listdir(pdf_path):
         if f.endswith(".pdf"):
+            logger.info(f"Processing file: {f}")
             pdf_file_path = os.path.join(pdf_path, f)
             output_file = os.path.join(text_folder, f.replace(".pdf", ".txt"))
+            if os.path.exists(output_file):
+                logger.info(f"Text file '{output_file}' already exists. Skipping...")
+                continue
             image_files = pdf_to_images(pdf_file_path)
             extracted_texts = []
             for image_file in image_files:
