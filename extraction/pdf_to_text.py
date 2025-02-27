@@ -31,7 +31,7 @@ def get_text_from_image(image_path):
         response = client.models.generate_content(
             model=model,
             contents=[
-                "Extract text from the image.",  # Wrap the instruction in Part.from_text()
+                "Extract text from the image. Do not add 'Here is the text extracted from the image:' at beginning of the response. Format the tables properly.",  # Wrap the instruction in Part.from_text()
                 Part.from_bytes(data=image_data, mime_type="image/jpeg"),  # Send image as input
             ],
         )
