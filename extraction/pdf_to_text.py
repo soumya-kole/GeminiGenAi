@@ -1,9 +1,16 @@
-import os
+"""
+Author: Soumyabrata Kole
+Date: 2025-02-27
+Description: This script performs PDF to text extraction using Google GenAI.
+"""
+
 import logging
-from pdf2image import convert_from_path
+import os
+
 import google.genai as genai
-from google.genai.types import Part, Image
 from dotenv import load_dotenv
+from google.genai.types import Part
+from pdf2image import convert_from_path
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
