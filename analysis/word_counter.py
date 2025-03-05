@@ -27,7 +27,7 @@ def word_count_dataframe(text):
     return df_word_count
 if __name__ == "__main__":
   # Read the text from a file
-  text_folder ='/Users/soumya/Technicals/pythonProject/GeminiGenAI/extraction/output_texts/'
+  text_folder ='/Users/soumya/Technicals/pythonProject/GeminiGenAI/extracted_text/'
   for text_file in os.listdir(text_folder):
       with open(os.path.join(text_folder, text_file), 'r') as file:
         text = file.read()
