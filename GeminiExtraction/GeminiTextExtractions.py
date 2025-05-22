@@ -60,7 +60,7 @@ def extract_text_from_pdf(gcs_pdf_uri):
             pdf_file,  # PDF file
         ],
     )
-
+    print(response)
     return response.text
 
 
@@ -71,7 +71,7 @@ def process_pdf(pdf_path):
 
     output_file = os.path.join(OUTPUT_DIR, os.path.basename(pdf_path).replace(".pdf", "_Gemini.txt"))
     if os.path.exists(output_file):
-        print(f"Text file '{output_file}' already exists. Skipping...")
+        print(f"Text file '{output_file}' already exists. Skipping...\n\n")
         return
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(extracted_text)

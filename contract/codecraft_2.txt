@@ -1,0 +1,69 @@
+ADDENDUM NO. 1 TO SOFTWARE DEVELOPMENT AGREEMENT
+This Addendum No. 1 (the "Addendum") is made and entered into as of this 2nd day of February, 2025 (the "Addendum Effective Date"),
+
+BY AND BETWEEN:
+
+Innovate Solutions Inc., a corporation duly organized and existing under the laws of the State of Delaware, with its principal place of business at 123 Innovation Drive, Tech City, DE 19801 ("Client"),
+
+AND
+
+CodeCraft Studios LLC, a limited liability company duly organized and existing under the laws of the State of California, with its principal place of business at 456 Code Avenue, Silicon Valley, CA 90210 ("Developer").
+
+(Client and Developer are hereinafter collectively referred to as the "Parties" and individually as a "Party").
+
+RECITALS
+
+WHEREAS, the Parties previously entered into a Software Development Agreement dated May 21, 2024 (the "Original Agreement"); and
+
+WHEREAS, the Parties now desire to amend, add, and delete certain terms of the Original Agreement to reflect evolving project requirements and operational adjustments.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the Parties agree as follows:
+
+ARTICLE 1: AMENDMENT DETAILS
+
+1.1. Amendment to Article 3, Section 3.2 (Acceptance Testing):
+Article 3, Section 3.2 of the Original Agreement is hereby amended as follows:
+* The "Acceptance Period" for Client to perform testing shall be extended from 5 business days to 7 business days.
+* Developer's period to correct non-conformities shall be extended from 3 business days to 5 business days.
+The amended Section 3.2 shall read:
+"3.2. Acceptance Testing: Upon delivery of each Deliverable, Client shall have 7 business days ("Acceptance Period") to perform testing and notify Developer in writing of any non-conformities with the specifications set forth in Exhibit A.
+a. If Client notifies Developer of non-conformities, Developer shall use commercially reasonable efforts to correct such non-conformities within 5 business days.
+b. If Client does not provide written notice of non-conformities within the Acceptance Period, the Deliverable shall be deemed accepted."
+
+1.2. Addition of Article 12: MAINTENANCE AND SUPPORT:
+A new Article 12 is hereby added to the Original Agreement, immediately following Article 11, to read as follows:
+"ARTICLE 12: MAINTENANCE AND SUPPORT
+12.1. Post-Deployment Support: Following the final acceptance of the Software, Developer shall provide a period of ninety (90) days of free bug-fix support. This support includes addressing critical errors that prevent the Software from functioning as per specifications.
+12.2. Optional Maintenance Plan: After the initial ninety (90) day period, Client may opt into a separate annual maintenance and support plan, the terms and fees of which will be set forth in a separate agreement."
+
+1.3. Deletion of Article 2, Section 2.3 (Expenses):
+Article 2, Section 2.3 ("Expenses") of the Original Agreement is hereby deleted in its entirety. All references to Client reimbursement for Developer expenses are removed from the Original Agreement. Developer's fees as outlined in Exhibit B are now inclusive of all Developer-incurred expenses.
+
+1.4. Amendment to Exhibit B (Fee Schedule):
+Section 1, "Total Project Fee," of Exhibit B of the Original Agreement is hereby amended to reflect the revised scope and the deletion of the expenses clause. The new total fixed fee for the Services shall be $160,000.00 USD. This increase accounts for the Developer now absorbing all previously reimbursable expenses.
+
+ARTICLE 2: EFFECT OF ADDENDUM
+
+2.1. Except as expressly modified, added, or deleted by this Addendum, all other terms and conditions of the Original Agreement shall remain in full force and effect.
+
+2.2. This Addendum shall be read and construed as part of the Original Agreement.
+
+ARTICLE 3: GOVERNING LAW
+
+3.1. This Addendum shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+IN WITNESS WHEREOF, the Parties have executed this Addendum as of the Addendum Effective Date.
+
+Innovate Solutions Inc.
+
+By: _________________________
+Name: Alice Wonderland
+Title: CEO
+Date: _________________________
+
+CodeCraft Studios LLC
+
+By: _________________________
+Name: Bob The Builder
+Title: Lead Developer
+Date: _________________________

@@ -1,0 +1,214 @@
+SOFTWARE DEVELOPMENT AGREEMENT
+This Software Development Agreement (the "Agreement") is made and entered into as of this 10th day of September, 2024 (the "Effective Date"),
+
+BY AND BETWEEN:
+
+Global Data Insights Corp., a corporation duly organized and existing under the laws of the State of New York, with its principal place of business at 789 Analytics Avenue, Data City, NY 10001 ("Client"),
+
+AND
+
+PixelPerfect Solutions Inc., a corporation duly organized and existing under the laws of the State of Washington, with its principal place of business at 101 Cloud Drive, Seattle, WA 98101 ("Developer").
+
+(Client and Developer are hereinafter collectively referred to as the "Parties" and individually as a "Party").
+
+RECITALS
+
+WHEREAS, Client desires to engage Developer to develop a custom data visualization dashboard and related services as more fully described herein; and
+
+WHEREAS, Developer possesses the necessary expertise, experience, and resources to perform such data visualization development services;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the Parties agree as follows:
+
+ARTICLE 1: SCOPE OF WORK
+
+1.1. Services: Developer shall perform data visualization development services for Client as described in Exhibit A (the "Scope of Work"), which is attached hereto and incorporated by reference. The Services shall include, but not be limited to, design, development, testing, and deployment of the data visualization dashboard (the "Dashboard").
+
+1.2. Change Orders: Any changes to the Scope of Work must be mutually agreed upon by both Parties in writing through a formal Change Order. Each Change Order shall specify the changes to the Services, any adjustments to the fees, timelines, and other relevant terms.
+
+1.3. Client Cooperation: Client agrees to provide timely access to necessary data sources, personnel, and resources as reasonably requested by Developer to facilitate the performance of the Services. Client's failure to provide such cooperation may result in delays, for which Developer shall not be liable.
+
+ARTICLE 2: PAYMENT TERMS
+
+2.1. Fees: Client shall pay Developer fees for the Services as set forth in Exhibit B (the "Fee Schedule"), which is attached hereto and incorporated by reference. Unless otherwise specified, all fees are in United States Dollars (USD).
+
+2.2. Invoicing and Payment: Developer shall invoice Client according to the milestones or schedule outlined in Exhibit B. Client shall pay all undisputed invoices within thirty (30) days of receipt. Overdue payments shall accrue interest at the rate of one percent (1%) per month or the maximum rate permitted by law, whichever is less.
+
+2.3. Expenses: Client shall reimburse Developer for pre-approved, reasonable, and necessary out-of-pocket expenses incurred in connection with the Services, provided such expenses are documented and submitted with invoices.
+
+ARTICLE 3: DELIVERABLES AND ACCEPTANCE
+
+3.1. Deliverables: Developer shall deliver the Dashboard and any associated documentation (collectively, the "Deliverables") to Client in accordance with the timelines and specifications set forth in Exhibit A.
+
+3.2. Acceptance Testing: Upon delivery of each Deliverable, Client shall have 7 business days ("Acceptance Period") to perform testing and notify Developer in writing of any non-conformities with the specifications set forth in Exhibit A.
+a. If Client notifies Developer of non-conformities, Developer shall use commercially reasonable efforts to correct such non-conformities within 4 business days.
+b. If Client does not provide written notice of non-conformities within the Acceptance Period, the Deliverable shall be deemed accepted.
+
+ARTICLE 4: INTELLECTUAL PROPERTY
+
+4.1. Ownership of Dashboard: Upon full and final payment of all fees due under this Agreement, all right, title, and interest in and to the Dashboard, including all intellectual property rights therein (including, but not limited to, copyrights, patents, trade secrets, and trademarks), shall vest exclusively in Client. Developer hereby assigns to Client all such rights.
+
+4.2. Developer Tools: Notwithstanding Section 4.1, Developer retains all right, title, and interest in and to any pre-existing software, tools, methodologies, or components developed by Developer prior to or independently of this Agreement ("Developer Tools"). Developer grants Client a perpetual, non-exclusive, royalty-free, worldwide license to use, reproduce, modify, and distribute the Developer Tools solely as integrated into the Dashboard.
+
+ARTICLE 5: CONFIDENTIALITY
+
+5.1. Definition: "Confidential Information" means any non-public information disclosed by one Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether orally or in writing, that is designated as confidential or that, by its nature, would reasonably be understood to be confidential. This includes, but is not limited to, business plans, financial information, customer lists, technical data, designs, and source code.
+
+5.2. Obligations: The Receiving Party shall:
+a. Use the Disclosing Party's Confidential Information solely for the purpose of performing its obligations under this Agreement.
+b. Not disclose, publish, or disseminate the Disclosing Party's Confidential Information to any third party without the Disclosing Party's prior written consent.
+c. Protect the Disclosing Party's Confidential Information with the same degree of care it uses to protect its own confidential information, but no less than reasonable care.
+
+5.3. Exclusions: Confidential Information does not include information that: (a) is or becomes publicly available through no fault of the Receiving Party; (b) was known to the Receiving Party prior to its disclosure by the Disclosing Party; (c) is independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; or (d) is rightfully obtained by the Receiving Party from a third party without restriction on disclosure.
+
+ARTICLE 6: TERM AND TERMINATION
+
+6.1. Term: This Agreement shall commence on the Effective Date and shall continue until the completion and acceptance of all Services and Deliverables, unless terminated earlier in accordance with this Article 6.
+
+6.2. Termination for Cause: Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party:
+a. Materially breaches any provision of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice thereof; or
+b. Becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of creditors.
+
+6.3. Effect of Termination: Upon termination, Client shall pay Developer for all Services performed and expenses incurred up to the effective date of termination. All licenses granted hereunder shall terminate, except for the perpetual license to Developer Tools granted in Section 4.2. Sections 4 (Intellectual Property), 5 (Confidentiality), 7 (Warranties), 8 (Indemnification), 9 (Limitation of Liability), and 10 (Governing Law and Dispute Resolution) shall survive any termination or expiration of this Agreement.
+
+ARTICLE 7: WARRANTIES
+
+7.1. Developer Warranties: Developer warrants that:
+a. The Services will be performed in a professional and workmanlike manner, consistent with industry standards.
+b. The Dashboard will conform to the specifications set forth in Exhibit A for a period of ninety (90) days following acceptance.
+c. Developer has the right to enter into this Agreement and grant the rights and licenses herein.
+
+7.2. Client Warranties: Client warrants that:
+a. It has the right to enter into this Agreement.
+b. Any materials or information provided by Client to Developer will not infringe upon the intellectual property rights of any third party.
+
+7.3. Disclaimer: EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, DEVELOPER MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+ARTICLE 8: INDEMNIFICATION
+
+8.1. Developer Indemnification: Developer shall indemnify, defend, and hold harmless Client from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of any third-party claim that the Dashboard, as delivered by Developer, infringes any intellectual property rights of a third party, provided Client promptly notifies Developer of the claim and provides reasonable assistance.
+
+8.2. Client Indemnification: Client shall indemnify, defend, and hold harmless Developer from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of any third-party claim relating to Client's use of the Dashboard in violation of this Agreement or Client's provision of infringing materials to Developer.
+
+ARTICLE 9: LIMITATION OF LIABILITY
+
+9.1. Limitation: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE, INCURRED BY THE OTHER PARTY OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2. Cap on Liability: THE TOTAL AGGREGATE LIABILITY OF DEVELOPER TO CLIENT FOR ANY AND ALL CLAIMS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES PAID BY CLIENT TO DEVELOPER UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+ARTICLE 10: GOVERNING LAW AND DISPUTE RESOLUTION
+
+10.1. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws principles.
+
+10.2. Dispute Resolution: Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination, or invalidity thereof, shall be resolved by binding arbitration administered by the American Arbitration Association ("AAA") in accordance with its Commercial Arbitration Rules. The arbitration shall take place in Data City, New York. The decision of the arbitrator(s) shall be final and binding upon the Parties.
+
+ARTICLE 11: MISCELLANEOUS PROVISIONS
+
+11.1. Notices: All notices required or permitted under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by certified or registered mail (return receipt requested), or by reputable overnight courier, to the addresses first set forth above.
+
+11.2. Entire Agreement: This Agreement, including its Exhibits, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written.
+
+11.3. Severability: If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+11.4. Waiver: The failure of either Party to enforce any provision of this Agreement shall not be construed as a waiver of such provision or the right to enforce it thereafter.
+
+11.5. Assignment: Neither Party may assign its rights or obligations under this Agreement without the prior written consent of the other Party, except that Client may assign this Agreement in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+11.6. Counterparts: This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+Global Data Insights Corp.
+
+By: _________________________
+Name: David Chen
+Title: Chief Data Officer
+Date: _________________________
+
+PixelPerfect Solutions Inc.
+
+By: _________________________
+Name: Sarah Lee
+Title: Lead Architect
+Date: _________________________
+
+EXHIBIT A: SCOPE OF WORK
+
+Project Title: Executive Data Dashboard
+
+1. Project Overview:
+Development of an interactive web-based dashboard to visualize key business metrics from various internal data sources.
+
+2. Key Features:
+
+Secure user login and role-based access.
+
+Dynamic filtering and drill-down capabilities for data.
+
+Integration with existing SQL databases (Client to provide access).
+
+Export functionality for reports (CSV, PDF).
+
+Real-time data refresh (hourly).
+
+Customizable chart types (bar, line, pie, scatter).
+
+3. Technologies:
+
+Frontend: D3.js, React.js
+
+Backend: Python (Flask), PostgreSQL
+
+Cloud Platform: AWS (Amazon Web Services)
+
+4. Milestones and Deliverables:
+
+Milestone 1 (Week 6): Data Integration & Core Dashboard Structure
+
+Deliverable: Connected data sources, basic dashboard layout.
+
+Milestone 2 (Week 12): Interactive Visualizations & Filtering
+
+Deliverable: Functional charts, dynamic filters.
+
+Milestone 3 (Week 18): Export & User Management
+
+Deliverable: Export features, user authentication implemented.
+
+Milestone 4 (Week 24): Final Polish & UAT Readiness
+
+Deliverable: Complete dashboard ready for User Acceptance Testing (UAT).
+
+Milestone 5 (Week 26): Production Deployment & Documentation
+
+Deliverable: Deployed dashboard, comprehensive user and technical documentation.
+
+5. Acceptance Criteria:
+
+All features as listed in Section 2 are fully functional and meet performance requirements.
+
+Data accuracy verified against source systems.
+
+All identified bugs during UAT are resolved.
+
+Code adheres to agreed-upon coding standards.
+
+EXHIBIT B: FEE SCHEDULE
+
+1. Total Project Fee:
+The total fixed fee for the Services described in Exhibit A is $200,000.00 USD.
+
+2. Payment Schedule:
+Payments shall be made upon the completion and acceptance of each milestone as follows:
+
+Milestone 1 Completion: $40,000.00 (Due Week 6)
+
+Milestone 2 Completion: $60,000.00 (Due Week 12)
+
+Milestone 3 Completion: $50,000.00 (Due Week 18)
+
+Milestone 4 Completion: $30,000.00 (Due Week 24)
+
+Milestone 5 Completion: $20,000.00 (Due Week 26)
+
+3. Expenses:
+Pre-approved travel expenses (e.g., for on-site meetings) will be reimbursed at cost. All other development-related expenses (e.g., software licenses, cloud infrastructure costs) are included in the Total Project Fee.
