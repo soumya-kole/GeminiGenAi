@@ -1,0 +1,11 @@
+Section 2: Payment Terms
+Payments will now be made bi-weekly instead of monthly.
+
+Section 3: No longer required
+This section (Section 3 from main version 1 document) is void and does not apply anymore.
+
+Section 5:
+Now has been changed with formula Rate = Fixed rate + 20% for overtime
+
+Section 6: Remote Work
+All work may now be performed remotely unless otherwise specified.

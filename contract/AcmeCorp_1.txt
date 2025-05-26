@@ -1,0 +1,17 @@
+Section 1: Scope of Work
+AcmeCorp will provide software development services including frontend and backend development.
+
+Section 2: Payment Terms
+Payments shall be made on a monthly basis upon invoice submission.
+
+Section 3: Non-Disclosure Agreement
+All developers working on the project must sign a non-disclosure agreement (NDA) before commencing work.
+
+Section 4: Working Hours
+The development team shall be available from 9 AM to 5 PM, Monday through Friday.
+
+Section 5: Payment rate
+Fixed rate = $100/hour * (experience level + 1)
+Rate = Fixed rate + 20% for overtime
+Bonus = Rate * 0.1
+Total = Rate + Bonus
