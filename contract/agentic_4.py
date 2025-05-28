@@ -341,18 +341,7 @@ def debug_contract_query(question: str, partner: str):
     return result
 
 
-# ---------------------
-# Example Usage
-# ---------------------
-if __name__ == "__main__":
-    # Regular usage
-    result = run_contract_query("What is the Total Project Fee?", "codecraft")
-    print("Final Answer:", result["final_answer"])
-    print("Override Detected:", result.get("override_detected", False))
 
-    # Debug usage
-    # debug_result = debug_contract_query("What is the Total Project Fee?", "codecraft")
-# Load API key
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPEN_AI_API_KEY")
 
@@ -633,7 +622,7 @@ graph.add_edge("AddendumAgent", "FinalSynthesizer")
 graph.add_edge("FinalSynthesizer", END)
 
 workflow = graph.compile()
-
+print(workflow.get_graph().draw_mermaid())
 
 # ---------------------
 # Enhanced Execution Function
